@@ -2,5 +2,5 @@
 
 //First Program
 void main (int argc, char **argv){
-	printf("Hello, my name is Ammar\n");
+	printf("Goodbye, I finished my CS 2560 HW1\n");
 }
